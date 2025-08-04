@@ -1,5 +1,10 @@
 # HyprV4
-Original owner of this file is SoleDoesTech. He is no Lognger maintaining this file. So I make some adjustment to make it work. 
+
+> 🚨 **Notice:** Original author [SolDoesTech](https://github.com/SolDoesTech) is no longer maintaining this file.  
+> I’ve applied some adjustments to get it working—all credit goes to him!
+
+
+
 This is V4 of the Hyprland install script
 
 It contains a collection of dot config files for hyprland with a simple install script.
