@@ -1,6 +1,6 @@
 # HyprV4
 
-> 🚨 **Notice:** Original author [SolDoesTech](https://github.com/SolDoesTech) is no longer maintaining this file.  
+> 🚨 **Notice:** Original author [SolDoesTech](https://github.com/SolDoesTech) (maybe) is no longer maintaining this file.  
 > I’ve applied some adjustments to get it working—all credit goes to him!
 
 
